@@ -10,4 +10,4 @@
 * [道易程协议](whitepaper/protocols.md)
 * [IADD 网络](whitepaper/iadd.md)
 * [DAism Store](whitepaper/store.md)
-* [道议程发展规划](whitepaper/roadmap.md)
+* [道易程发展规划](whitepaper/roadmap.md)
