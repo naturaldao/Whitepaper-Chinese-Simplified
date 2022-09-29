@@ -6,7 +6,7 @@
 
 * [简介](whitepaper/summary.md)
 * [道易程的结构](whitepaper/architecture.md)
-* [道议程框架](whitepaper/framework.md)
+* [道易程框架](whitepaper/framework.md)
 * [道易程协议](whitepaper/protocols.md)
 * [IADD 网络](whitepaper/iadd.md)
 * [DAism Store](whitepaper/store.md)
