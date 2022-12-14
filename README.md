@@ -8,7 +8,7 @@ description: 道易程将要带来交易和支付的革命，并为DAO的治理�
 
 这意味着道易程是一个让 DAO暨dApp 繁衍生息、蓬勃发展的公共平台。
 
-道易程的出现标志着我们迈入了元宇宙元器件时代！
+道易程的出现标志着我们正在迈入元宇宙元器件时代！
 
 {% embed url="https://www.daism.io/zh" %}
 道易程网站
@@ -21,3 +21,5 @@ description: 道易程将要带来交易和支付的革命，并为DAO的治理�
 {% endembed %}
 
 道易程社区（DAism Community）的Discord交流群: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
+
+道易程社区的Telegram：
