@@ -20,6 +20,8 @@ description: 道易程将要带来交易和支付的革命，并为DAO的治理�
 自然道网站
 {% endembed %}
 
+道易程官网：[www.daism.io](https://www.daism.io)
+
 道易程社区（DAism Community）的Discord交流群: [https://discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
 
-道易程社区的Telegram：
+道易程社区的Telegram：[https://t.me/+ypbjPqbiBiBlN2Nl](https://t.me/+ypbjPqbiBiBlN2Nl)
