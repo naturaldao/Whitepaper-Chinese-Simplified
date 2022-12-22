@@ -4,9 +4,7 @@ description: ver 1.0 stable
 
 # 道易程协议
 
-DAism框架以一些原创协议为核心。这些核心治理协议是道易程的基石，其中一些将会成为以太坊的公共标准，譬如我们已经将通证图片链上存储协议的接口标准，转为EIP-2569而提交给以太坊。我们也把新创的通证技术标准转为EIP-3712。
-
-DAism框架的治理协议主要有：
+DAism框架以一些治理协议为核心：
 
 * DAO硬核协议（去中心化自治智能体核心协议，DAO Hardcore Protocol）
 * 去中心化认证协议 Decentralized Authentication Procotol
@@ -15,8 +13,6 @@ DAism框架的治理协议主要有：
 * 代币供应协议（Protocol of Token's Circulating Supply）
 * 去中心化交易协议（Protocol of Decentralized Exchange）
 * 去中心化支付协议（Protocol of Decentralized Payment）
-
-随着道易程的发展，未来我们还可能会根据应用的需求而发展一些新的协议。
 
 ## **DAO硬核协议（去中心化自治智能体核心协议，DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
