@@ -34,7 +34,7 @@ DAO这种智能体有准入制度吗？
 
 ## **去中心化铸造协议 Decentralized Mint Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
-这是DAism为DAO的创建提供的一个去中心化认证协议，它可以证明一个DAO源于哪个智能合约。认证机制非常简单，DAO的去中心化认证，可作为DAO的状态（如创世和休眠）的证据，解决智能体及其发行的代币和产品（如DApp）基于其核心智能合约的这一真实信息的证明等问题。
+Mint即是合约交互，它是智能合约间最基础的行为。DAism摒弃了虚幻的DID概念，为DAO的创建采用了极简的去中心化认证手段，即DAO的创建始于其智能合约的Mint请求而与任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的证明问题。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
