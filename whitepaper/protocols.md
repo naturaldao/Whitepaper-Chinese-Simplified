@@ -1,5 +1,5 @@
 ---
-description: ver 1.0 stable
+description: ver 1.0 beta
 ---
 
 # 道易程协议
@@ -32,9 +32,11 @@ DAO这种智能体有准入制度吗？
 6. 一个DAO创建成功，则自动获得去中心化认证标识。
 7. DAO 应该是公共的，它不归任何人、任何注册于链下的组织或企业所私有。
 
-## **去中心化铸造协议 Decentralized Mint Protocol** <a href="#deauthentication" id="deauthentication"></a>
+## **去中心化铸造协议 Decentralized Minting Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
-Mint即是合约交互，它是智能合约间最基础的行为。DAism摒弃了虚幻的DID概念，为DAO的创建采用了极简的去中心化认证手段，即DAO的创建始于其智能合约的Mint请求而与任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的证明问题。
+铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
+
+同时，该协议也是一个公共资源协议，即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
@@ -47,6 +49,8 @@ Mint即是合约交互，它是智能合约间最基础的行为。DAism摒弃�
 * 允许建立白名单和黑名单制度。用以保障基金的正常使用和安全。
 
 ## **流通通证供应暨代币供应协议（Protocol of Token's Circulating Supply）** <a href="#tokensupply" id="tokensupply"></a>
+
+流通通证供应暨代币供应协议属哈耶克公约（Hayek Convention）之一。
 
 任何一个DAO都可以发行其唯一的流通用通证即代币（ERC20通证的简称，以下同）。流通用通证主要帮助构建其自治的经济生态，为DAO的创建和运营打好经济基础。
 
@@ -64,7 +68,7 @@ Mint即是合约交互，它是智能合约间最基础的行为。DAism摒弃�
 
 ## **计量单位通证协议（Protocol of Unit Token）** <a href="#utoken" id="utoken"></a>
 
-本协议又叫维塔公约（Vitaic Convention）。
+本协议属哈耶克公约（Hayek Convention）之二。。
 
 计量单位通证是道易程的 IADD （去中心化交易和去中心化支付2合1网络）中，通过恒定乘积算法（constant product formula），为一切流通通证（ETH、20代币等等）定价的通证。
 
@@ -140,7 +144,7 @@ Mint即是合约交互，它是智能合约间最基础的行为。DAism摒弃�
 
 [https://1155.goh.cool/](https://1155.goh.cool/)
 
-[https://honor.goh.cool](https://honor.goh.cool/latest)****
+[https://honor.goh.cool](https://honor.goh.cool/latest)
 
 ## **图片存储标准**
 
