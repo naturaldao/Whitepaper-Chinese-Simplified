@@ -50,7 +50,7 @@ DAO这种智能体有准入制度吗？
 
 ## **流通通证供应暨代币供应协议（Protocol of Token's Circulating Supply）** <a href="#tokensupply" id="tokensupply"></a>
 
-流通通证供应暨代币供应协议属哈耶克公约（Hayek Convention）之一。
+流通通证供应暨代币供应协议也叫哈耶克公约一（Hayek Convention No.1）。
 
 任何一个DAO都可以发行其唯一的流通用通证即代币（ERC20通证的简称，以下同）。流通用通证主要帮助构建其自治的经济生态，为DAO的创建和运营打好经济基础。
 
@@ -68,7 +68,7 @@ DAO这种智能体有准入制度吗？
 
 ## **计量单位通证协议（Protocol of Unit Token）** <a href="#utoken" id="utoken"></a>
 
-本协议属哈耶克公约（Hayek Convention）之二。。
+本协议也叫哈耶克公约二（Hayek Convention No.2）。
 
 计量单位通证是道易程的 IADD （去中心化交易和去中心化支付2合1网络）中，通过恒定乘积算法（constant product formula），为一切流通通证（ETH、20代币等等）定价的通证。
 
@@ -89,14 +89,18 @@ DAO这种智能体有准入制度吗？
 
 计量单位通证 uToken是道易程独创的币价基准物。它会最大程度地降低代币应用的复杂度，也完全符合去中心化市场的需要。
 
-## 去中心化交易和支付协议（Protocol of Decentralized Exchange and Decentralized Payment） <a href="#dex-pay" id="dex-pay"></a>
+## 去中心化交易协议（Protocol of Decentralized Exchange <a href="#dex-pay" id="dex-pay"></a>
 
-* 该协议治理的是代币的交易和支付规则。
-* IADD网络是道易程通用的去中心化交易和去中心化支付网络。 道易程以定价通证uToken、DAO专属的代币、恒定乘积方程式、智能合约构成IADD网络。
-* DAO专属的代币遵循流通通证供应暨代币供应协议，发行时全部直接供应到IADD网络。
-* 代币在 IADD 网络有流动时，其所属DAO收取0.195%作为流动手续费。道易程同时再收取0.005%。
-* 如果一家DAO发行了流通通证（即代币），则它出售产品或服务（其价格单位必须是 vita）时，付费者支付的其它代币均通过 IADD 网络转为该DAO自己发行的代币，再支付给该DAO的去中心化自治基金会。
-* 如果该DAO没有发行代币，则它收费时直接收取 uToken。
+* 该协议治理的是代币的交易机制。
+* 仍然采用Bancor创新的自动化做市商（Automated Market Maker, AMM）。价格发现机制与 Bancor Network 或 Uniswap 类似。即IADD网络是道易程通用的去中心化交易和去中心化支付网络。 道易程以定价通证uToken、DAO专属的代币、恒定乘积方程式、智能合约构成IADD网络。
+* 通过代币供应协议的协同，智能合约用算法独立治理流动性池，无需人参与。
+* 代币在 IADD 网络有交易时，其所属DAO收取0.195%作为流动手续费。道易程同时再收取0.005%。
+
+## 通用支付协议（Protocol of Universal Payment）
+
+* 与去中心化自治基金会协议、计量单位通证协议、去中心化交易协议密切配合。
+* 一切产品与服务的价格均以 vita 为价格单位。
+* 购买产品或服务时，通过 IADD Network 完成不同币种的自动兑换。此时，uToken就是商家的结算通证。
 
 ## **声望协议（Protocol of Reputation Token）** <a href="#reputation" id="reputation"></a>
 
