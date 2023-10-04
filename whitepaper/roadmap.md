@@ -90,10 +90,8 @@
 9.  2021年
 
     全面复盘道易程的设计，并修改了多项协议和智能合约代码的细节。
-10. 2021年12月\~2022年5月，项目首次审计和修订\
-    审计公司为：[Fairyproof](https://www.fairyproof.com/)
-11. 2023年6月，第二轮审计：\
-    审计公司为：[Beosin](https://beosin.com/)
+10. 2023年3月，首次智能合约审计。审计公司为：[Fairyproof](https://www.fairyproof.com/)
+11. 2023年5月，第二轮审计。审计公司为：[Beosin](https://beosin.com/)
 12. 第三轮审计：[Fairyproof](https://www.fairyproof.com/)
 13. 第四轮审计：[Certik](https://www.certik.com/)
 14. 2023年Q4：部署到以太坊测试网络公开测试
