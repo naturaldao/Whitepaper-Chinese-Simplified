@@ -30,7 +30,7 @@ description: 1.0 Beta
 
 比特股、达世币（其决策引擎和预算系统甚至让达世币做到了自给自足）、ARES protocol及Boardroom、Wings、RootProject、Colony、Giveth、Aragon、DAOstack、DxDAO、PolkaDAO、Moloch DAO、Gitcoin……这些DAO基本都认同V神的探讨，都认为DAO就是以人类协作为核心的去中心化自治组织（Decentralized Autonomous Organization）。这是 1.0 的DAO。
 
-## 道易程对DAO 2.0的理解 <a href="#dao2" id="dao2"></a>
+## 道易程对DAO 2.0的定义 <a href="#dao2" id="dao2"></a>
 
 经过十年的摸索，区块链通过通证和智能合约两大硬核的发展，已经证明了去中心化、去审核、去信用、匿名等等基本价值观的巨大威力。但这些还只是停留在公链层面而非应用层面。
 
@@ -158,7 +158,7 @@ AI 的发展正扑面而来，它与区块链的强强联合也只是时间问�
 
 今天，该是我们勇敢地承认人类的局限而向前一步的时候了！
 
-## 道易程对DAO的治理策略
+## 道易程对DAO2.0的治理策略
 
 在道易程平台上，DAO可以是任何人、任何组织以及任何智能体；并且同时任何人、任何组织和任何智能体都可以自由开发和自由选用其DAO所需的去中心化应用。
 
