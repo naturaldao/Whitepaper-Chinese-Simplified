@@ -1,6 +1,6 @@
 # Table of contents
 
-* [概述](README.md)
+* [说明](README.md)
 
 ## 白皮书 <a href="#whitepaper" id="whitepaper"></a>
 

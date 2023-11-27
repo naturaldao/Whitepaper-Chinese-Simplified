@@ -1,10 +1,10 @@
 ---
-description: 道易程白皮书2.0
+description: 这是道易程白皮书2.0
 ---
 
-# 概述
+# 说明
 
-说明：经过四年半的开发探索，道易程白皮书需要一次大更新！这也许要花很长的时间。建议您先看看我们[YouTube频道的视频](https://www.youtube.com/@daismcore8822)和[Gamma文档](https://gamma.app/public/1-ht43d86c5lhu0rn)。
+经过四年半的开发探索，道易程白皮书需要一次大更新！这也许要花很长的时间。建议您先看看我们[YouTube频道的视频](https://www.youtube.com/@daismcore8822)和[Gamma文档](https://gamma.app/public/1-ht43d86c5lhu0rn)。
 
 
 
