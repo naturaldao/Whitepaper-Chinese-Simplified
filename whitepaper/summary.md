@@ -85,7 +85,7 @@ Coinbase和Paradigm两个项目的联合创始人Fred Ehrsam和Dan Robinson于20
 
 AI 的发展正扑面而来，它与区块链的强强联合也只是时间问题。我们建议将2.0的 DAO 提升为Decentralized Autonomous Organism。吐故纳新，是为了保证DAO还能与时俱进，不断防范人类的bug带来的破坏。
 
-## 道易程的价值共识
+## 道易程的价值共识对DAO/dApp的治理
 
 道易程通过原创的价值共识（PoV，Proof of Value），通过构建起_良好的通证经济_（Good Tokenomics），以奖励为驱动力，促进dApp的发展。
 
