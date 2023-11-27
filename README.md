@@ -1,19 +1,18 @@
 ---
-description: >-
-  道易程将要带来包含去中心化交易和通用支付在内的通证经济诸多方面的公共治理策略，也将给DAO的治理带来一个全新的价值体系，最终为通证经济和DAO的发展提供坚实的基础。
+description: 道易程白皮书2.0
 ---
 
 # 概述
 
-说明：道易程白皮书需要一次大更新！但估计会延后很长时间。建议您先看看我们[YouTube频道的视频](https://www.youtube.com/@daismcore8822)和[Gamma文档](https://gamma.app/public/1-ht43d86c5lhu0rn)。
+说明：经过四年半的开发探索，道易程白皮书需要一次大更新！这也许要花很长的时间。建议您先看看我们[YouTube频道的视频](https://www.youtube.com/@daismcore8822)和[Gamma文档](https://gamma.app/public/1-ht43d86c5lhu0rn)。
 
 
 
 道易程是以太坊通证经济和DAO的价值体系的公共治理层。
 
-这意味着道易程是一个让 DAO暨dApp 繁衍生息，让通证经济蓬勃发展的公共治理层。
+道易程继承了比特币工作量证明（和以太坊权益证明）的治理思想，其原创的治理共识为价值共识（PoV，Proof of Value）。
 
-道易程即将引领我们迈入举世瞩目的元宇宙元器件时代！
+这意味着道易程是一个让 DAO暨dApp 繁衍生息，让通证经济蓬勃发展的公共治理层。
 
 {% embed url="https://www.daism.io/zh" %}
 道易程网站
@@ -27,8 +26,4 @@ description: >-
 
 道易程官网：[www.daism.io](https://www.daism.io)
 
-道易程社区（DAism Community）：[daotodon.me](https://daotodon.me)
-
 道易程社区的Discord交流群: [discord.gg/mymgps3srU](https://discord.gg/mymgps3srU)
-
-道易程社区的Telegram：[t.me/+ypbjPqbiBiBlN2Nl](https://t.me/+ypbjPqbiBiBlN2Nl)
