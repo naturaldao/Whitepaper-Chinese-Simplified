@@ -1,22 +1,22 @@
 ---
-description: ver 1.0 beta
+description: 各种治理协议的交联是非常复杂的。
 ---
 
-# 道易程协议
+# 道易程PoV中的治理协议
 
-DAism框架以一些治理协议为核心：
+如前所述，道易程PoV中有七大治理协议：
 
-* DAO硬核协议（去中心化自治智能体核心协议，DAO Hardcore Protocol）
-* 去中心化认证协议 Decentralized Authentication Procotol
+* DAO硬核协议（DAO Hardcore Protocol）
+* 去中心化铸造协议 Decentralized Minting Protocol
 * 去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）
 * 计量单位通证协议（Protocol of Unit Token）
 * 代币供应协议（Protocol of Token's Circulating Supply）
 * 去中心化交易协议（Protocol of Decentralized Exchange）
 * 去中心化支付协议（Protocol of Decentralized Payment）
 
-## **DAO硬核协议（去中心化自治智能体核心协议，DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
+## **DAO硬核协议（DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
-DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址）、去中心化自治基金的合约地址，等等。
+DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），等等。
 
 DAO这种智能体有准入制度吗？
 
@@ -24,13 +24,8 @@ DAO这种智能体有准入制度吗？
 
 至于细则，我们认为需注意这些方面：
 
-1. 如果没有初始化核心共识，那么一个DAO就没法构造，因为这就意味着没有人拥有任何权力。我们的策略是默认DAO的创建者为创始人或其授权人，创建者有权构造出一个DAO的轮廓（DApp列表及其设置、流通代币的发行规划等等）。请注意，创建时，我们会列出每个类别里面的所有DApp，而不仅仅是核心DApp，供创建者自由组合。
-2. 构建一家DAO的工作，包括项目的命名、ERC-20通证的发行、荣誉通证的去中心化认证、去中心化交易和支付网络的自动部署等等。
-3. 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。所有这些地址都可供发行Cofounder荣誉头衔勋章。地址暂定上限为100人。
-4. 我们把去中心化共识决策的实现交给应用层的dApp去解决。
-5. 默认情况下，该DAO的所有规则都是公开透明的。
-6. 一个DAO创建成功，则自动获得去中心化认证标识。
-7. DAO 应该是公共的，它不归任何人、任何注册于链下的组织或企业所私有。
+1. 如果没有初始化核心共识，那么一个DAO就没法构造，因为这就意味着没有人拥有任何权力。我们的策略是默认DAO的创建者为创始人或其授权人，创建者有权构造出一个DAO的轮廓（DApp列表及其设置、流通代币的发行规划等等）。
+2. 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址暂定上限为100人。
 
 ## **去中心化铸造协议 Decentralized Minting Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
