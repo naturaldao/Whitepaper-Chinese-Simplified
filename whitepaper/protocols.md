@@ -18,20 +18,27 @@ description: 各种治理协议的交联是非常复杂的。
 
 DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），等等。
 
-DAO这种智能体有准入制度吗？
-
-我们相信DAO应该会采用完全开放的模式，即无需许可，大门敞开，界面和数据完全开放。它们基于开放透明的规则和智能算法来实现自我管理或被管理。
-
-至于细则，我们认为需注意这些方面：
-
-1. 如果没有初始化核心共识，那么一个DAO就没法构造，因为这就意味着没有人拥有任何权力。我们的策略是默认DAO的创建者为创始人或其授权人，创建者有权构造出一个DAO的轮廓（DApp列表及其设置、流通代币的发行规划等等）。
-2. 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址暂定上限为100人。
+在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址上限为64人。
 
 ## **去中心化铸造协议 Decentralized Minting Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
-铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
+铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了当前虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与当前其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
 
-同时，该协议也是一个公共资源协议，即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源（Public Goods）————我们称其为智能资产（Smart Property）。这也就是说，接受道易程治理的DAO/dApp，即为智能资产。
+同时，该协议也是一个公共资源协议（SP0协议，Smart Property 0），即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源（Public Goods）————我们称其为智能资产（Smart Property）。这也就是说，接受道易程治理的DAO/dApp，即为智能资产。
+
+**SP0 v0.1**
+
+用一个dApp Mint DAO意味着该dApp接受SP0协议成为其唯一协议，也接受其所有者和管理者（我们称之为DAO的成员）全部匿名这一事实。
+
+1、无著作权
+
+匿名意味着其开发的dApp完全贡献至公共领域，成为公共资源，除享受 PoV 共识带来的奖励外，放弃所有其它权利，包括所有相关权利和邻接权利。
+
+2、无责任
+
+匿名意味着该DAO的成员，不对其dApp及其专属代币提供任何形式的担保，不承担任何连带责任。
+
+当使用或调用本dApp，或投资本DAO专属代币时，任何人不得暗示本DAO任何成员为他的行为背书。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
@@ -95,9 +102,18 @@ DAO这种智能体有准入制度吗？
 * 一切产品与服务的价格均以 vita 为价格单位。
 * 购买产品或服务时，通过 IADD Network 完成不同币种的自动兑换。此时，uToken就是商家的结算通证。
 
-## **荣誉通证协议（Token of Honor Protocol）** <a href="#honor" id="honor"></a>
+## **其它与治理相关的技术探讨** <a href="#honor" id="honor"></a>
 
-荣誉的记录和表彰，是DAO发展的重要激励手段。它不是道易程的核心协议，而是道易程dApp市场里的一个dApp所采用的协议。
+### **图片存储标准**
+
+我们原创的图片存储标准意义重大：
+
+* 首先应用于荣誉通证的链上存储。我们成功制订了EIP-2569（Saving and Displaying Image Onchain for Universal Tokens），以太坊已经收录（查询：[https://eips.ethereum.org/all](https://eips.ethereum.org/all)）。这意味着我们创立了面向整个以太坊应用的技术标准。
+* 扩大应用到一切图片的存储。譬如我们已经将它应用到了去中心化媒体。
+
+### **荣誉通证（Token of Honor）** <a href="#honor" id="honor"></a>
+
+荣誉的记录和表彰，是DAO发展的重要激励手段。
 
 荣誉通证的应用面是非常广泛的，包含：
 
@@ -106,8 +122,8 @@ DAO这种智能体有准入制度吗？
 
 目标：
 
-* 该协议定义荣誉通证的基础发行标准
-* 该协议定义荣誉通证的交易接口
+* 该标准定义荣誉通证的基础发行标准
+* 该标准定义荣誉通证的交易接口
 
 这是我们开发的简单的荣誉通证交易所的DEMO：
 
@@ -115,24 +131,8 @@ DAO这种智能体有准入制度吗？
 
 [https://honor.goh.cool](https://honor.goh.cool/latest)
 
-## **图片存储标准**
-
-我们原创的图片存储标准意义重大：
-
-* 首先应用于荣誉通证的链上存储。我们成功制订了EIP-2569（Saving and Displaying Image Onchain for Universal Tokens），以太坊已经收录（查询：[https://eips.ethereum.org/all](https://eips.ethereum.org/all)）。这意味着我们创立了面向整个以太坊应用的技术标准。
-* 扩大应用到一切图片的存储。譬如我们已经将它应用到了去中心化媒体。
-
-## **DApp接口标准与协议 Standards and Protocols for DApp Interfaces**
-
-DAO的应用层就是各种扩展应用（也就是DAO功能的封装和扩展，我们称之为“DApp”），以及可能的独立Dapp。
-
-包含：
-
-* 第三方DApp的拓展接口。
-* 第三方DApp的协议（DDIP，DAism dAPP Improvement Protocol）
-
-## **UI标准与协议 UI Standard & Protocol**
+### **UI标准与协议 UI Standard & Protocol**
 
 为便于第三方开发道易程应用层的模块，我们未来还要提供UI标准。当然第三方贡献也行。
 
-目前已确定的有 Monkey King Protocol。
+目前已确定使用的第三方协议有 Monkey King Protocol、ActivityPub。
