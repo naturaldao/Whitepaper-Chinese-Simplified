@@ -9,8 +9,8 @@ description: 各种治理协议的交联是非常复杂的。
 * DAO硬核协议（DAO Hardcore Protocol）
 * 去中心化铸造协议 Decentralized Minting Protocol
 * 去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）
+* 估值通证供应协议（Protocol of Valuation Token's Supply）
 * 计量单位通证协议（Protocol of Unit Token）
-* 代币供应协议（Protocol of Token's Circulating Supply）
 * 去中心化交易协议（Protocol of Decentralized Exchange）
 * 去中心化支付协议（Protocol of Decentralized Payment）
 
@@ -22,7 +22,7 @@ DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称
 
 ## **去中心化铸造协议 Decentralized Minting Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
-铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了当前虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与当前其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其发行的代币和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
+铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了当前虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与当前其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其专属的估值通证和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
 
 同时，该协议也是一个公共资源协议（SP0协议，Smart Property 0），即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源（Public Goods）————我们称其为智能资产（Smart Property）。这也就是说，接受道易程治理的DAO/dApp，即为智能资产。
 
@@ -36,9 +36,9 @@ DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称
 
 2、无责任
 
-匿名意味着该DAO的成员，不对其dApp及其专属代币提供任何形式的担保，不承担任何连带责任。
+匿名意味着该DAO的成员，不对其dApp及其专属估值通证提供任何形式的担保，不承担任何连带责任。
 
-当使用或调用本dApp，或投资本DAO专属代币时，任何人不得暗示本DAO任何成员为他的行为背书。
+当使用或调用本dApp，或投资本DAO专属估值通证时，任何人不得暗示本DAO任何成员为他的行为背书。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
@@ -48,14 +48,14 @@ DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称
 
 估值通证供应也叫哈耶克公约一（Hayek Convention No.1）。
 
-任何一个DAO都会发行其专属的估值用通证（也可以称其为估值用代币）。估值通证的主要作用是让投资者参与dApp的价值评估，并为道易程的价值共识提供奖金。
+任何一个DAO都会发行其专属的估值用通证（中文也可以称其为估值用代币）。估值通证的主要作用是让投资者参与dApp的价值评估，并为道易程的价值共识提供奖金。
 
 该协议主要定义估值通证的技术标准、名称、缩略符、Logo及其发行量、发行价。
 
 估值通证协议和IADD有非常密切的关系，可以说它也是构成 IADD 网络的重要协议之一。
 
 * 通证标准为EIP-3712。
-* 估值通证全部发行到 IADD 网络，项目方1个都没有。它彻底革新了区块链不合理的代币市场供应机制，也是防范项目方和资本方联合操控市场甚至空手套白狼忽悠市场的重要手段！
+* 估值通证全部发行到 IADD 网络，项目方1个都没有。它彻底革新了区块链长期不合理的代币市场供应机制，也是防范项目方和资本方联合操控市场甚至空手套白狼忽悠市场的重要手段！
 * 发行标准都一致：发行总量为10,000,000,000个，发行价为 0.01 vita。
 * 估值通证在 IADD 网络有交易时，交易手续费（0.2%）将直接奖励给其DAO。
 
@@ -63,31 +63,31 @@ DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称
 
 本协议也叫哈耶克公约二（Hayek Convention No.2）。
 
-计量单位通证是道易程的 IADD （去中心化交易和去中心化支付2合1网络）中，通过恒定乘积算法（constant product formula），为一切流通通证（ETH、20代币等等）定价的通证。
+计量单位通证是道易程的 IADD （去中心化交易和去中心化支付2合1网络）中，通过恒定乘积算法（constant product formula），为一切估值通证定价的通证。
 
 这是道易程的一个核心创新。该协议的核心是一种叫uToken的单位通证。
 
 1.  uToken 由 ETH 锻造获取，亦即定价通证有一个非常独特的发行机制——你也可以理解为uToken是ETH的变体，其价值源于以太坊。uToken也是后面要介绍的 IADD 网络核心要素。
 
     详情请访问“IADD网络”部分的“[计量单位通证uToken的发行：ETH锻造](https://dcn.naturaldao.io/whitepaper/iadd#forge)”
-2. uToken 是一种非常独特的代币。它是道易程定义的一种价格基准物（单位通证），被定义为 1 uToken = 1 vita。和我们熟知的**国际单位制**的质量的基本单位类似，道易程有[一套价格单位](https://dcn.naturaldao.io/whitepaper/iadd#ji-liang-dan-wei-zhi)用于计算流通通证（代币）的价格。其中vita是代币**价格的基本单位**。
-3. 道易程平台里面的一切代币（流通通证）的即时价格，都以计量通证 uToken 为基准物，以 vita为计价单位，通过恒定乘积算法（constant product formula）计算获取。
-4.  vita是价格的基本单位。\
-    计量通证 uToken 是道易程的去中心化交易和支付网络（IADD网络）中的定价基准物，它的价格的基本单位为vita。那么也就是说，凡涉及到代币交易或者支付时，一律以 vita为价格的基本单位来标价。就支付来说，道易程生态里的一切产品和服务的售价，也都以 vita为价格的基本单位来标价。如：\
+2. uToken 是一种非常独特的通证。它是道易程定义的一种价格基准物（单位通证），被定义为 1 uToken = 1 vita。和我们熟知的**国际单位制**的质量的基本单位类似，道易程有[一套价格单位](https://dcn.naturaldao.io/whitepaper/iadd#ji-liang-dan-wei-zhi)用于计算估值通证的价格。其中vita是**通证价格的基本单位**。
+3. 道易程平台里面的一切估值通证的即时价格，都以计量通证 uToken 为基准物，以 vita为计价单位，通过恒定乘积算法（constant product formula）计算获取。
+4.  vita是通证价格的基本单位。\
+    计量通证 uToken 是道易程的去中心化交易和支付网络（IADD网络）中的定价基准物，它的价格的基本单位为vita。那么也就是说，凡涉及到通证交易或者支付时，一律以 vita为价格的基本单位来标价。就支付来说，通证经济生态里的一切产品和服务的售价，也都以 vita为价格的基本单位来标价。如：\
     1 ISM = 0.01 vita\
     产品售价：0.5 vita/ kg\
     服务费：200 vita/ 小时
 
     更多细节请访问“IADD网络”的“[计量单位通证协议](iadd.md#utoken)”。
 
-计量单位通证 uToken是道易程独创的币价基准物。它会最大程度地降低代币应用的复杂度，也完全符合去中心化市场的需要。
+计量单位通证 uToken是道易程独创的币价基准物。它会最大程度地降低估值通证应用的复杂度，也完全符合去中心化市场的需要。
 
 ## 去中心化交易协议（Protocol of Decentralized Exchange <a href="#dex-pay" id="dex-pay"></a>
 
-* 该协议治理的是代币的交易机制。
-* 仍然采用Bancor创新的自动化做市商（Automated Market Maker, AMM）。价格发现机制与 Bancor Network 或 Uniswap 类似。即IADD网络是道易程通用的去中心化交易和去中心化支付网络。 道易程以定价通证uToken、DAO专属的代币、恒定乘积方程式、智能合约构成IADD网络。
-* 通过代币供应协议的协同，智能合约用算法独立治理流动性池，无需人参与。
-* 代币在 IADD 网络有交易时，其所属DAO收取0.195%作为流动手续费。道易程同时再收取0.005%。
+* 该协议治理的是估值通证的交易机制。
+* 仍然采用Bancor创新的自动化做市商（Automated Market Maker, AMM）。价格发现机制与 Bancor Network 或 Uniswap 类似。即IADD网络是道易程通用的去中心化交易和去中心化支付网络。 道易程以定价通证uToken、DAO专属的估值通证、恒定乘积方程式、智能合约构成IADD网络。
+* 通过估值通证供应协议的协同，智能合约用算法独立治理流动性池，无需人参与。
+* 估值通证在 IADD 网络有交易时，交易手续费（0.2%）作为奖金奖励给其所属DAO。
 
 ## 通用支付协议（Protocol of Universal Payment）
 
