@@ -16,7 +16,7 @@ description: 各种治理协议的交联是非常复杂的。
 
 ## **DAO硬核协议（DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
-DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），等等。
+DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），专属估值通证等等。
 
 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址上限为64人。
 
