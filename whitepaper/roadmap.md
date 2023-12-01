@@ -49,8 +49,7 @@
 
     平台结构的探索
 7. 2020年Q3：人员变动，工作交替\
-   负责开发的联合创始人离开、新人加盟，开发工作交替\
-
+   负责开发的联合创始人离开、新人加盟，开发工作交替
 8.  2020年Q4：合约开发技术升级，前端开发启动
 
     先后尝试用钻石标准和 Beacon Proxy（信标代理）重写了两版合约。
@@ -76,7 +75,7 @@
     [https://www.npmjs.com/package/web3-react](https://www.npmjs.com/package/web3-react)
 
     （主导者的Twitter：[https://twitter.com/NoahZinsmeister](https://twitter.com/NoahZinsmeister)）
-9.  2021年
+9.  2021年：发表了EIP-3712通证标准。
 
     全面复盘道易程的设计，并修改了多项协议和智能合约代码的细节。
 10. 2023年3月，首次智能合约审计。审计公司为：[Fairyproof](https://www.fairyproof.com/)
