@@ -72,17 +72,17 @@ DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称
 1.  uToken 由 ETH 锻造获取，亦即定价通证有一个非常独特的发行机制——你也可以理解为uToken是ETH的变体，其价值源于以太坊。uToken也是后面要介绍的 IADD 网络核心要素。
 
     详情请访问“IADD网络”部分的“[计量单位通证uToken的发行：ETH锻造](https://dcn.naturaldao.io/whitepaper/iadd#forge)”
-2. uToken 是一种非常独特的通证。它是道易程定义的一种价格基准物（单位通证），被定义为 1 uToken = 1 vita。和我们熟知的**国际单位制**的质量的基本单位类似，道易程有[一套价格单位](https://dcn.naturaldao.io/whitepaper/iadd#ji-liang-dan-wei-zhi)用于计算估值通证的价格。其中vita是**通证价格的基本单位**。
-3. 道易程平台里面的一切估值通证的即时价格，都以计量通证 uToken 为基准物，以 vita为计价单位，通过恒定乘积算法（constant product formula）计算获取。
+2. uToken 是一种非常独特的通证。它是道易程定义的一种价格原器（单位通证），被定义为 1 uToken = 1 vita。和我们熟知的**国际单位制**的质量的基本单位类似，道易程有[一套价格单位](https://dcn.naturaldao.io/whitepaper/iadd#ji-liang-dan-wei-zhi)用于计算估值通证的价格。其中vita是**通证价格的基本单位**。
+3. 道易程平台里面的一切估值通证的即时价格，都以价格原器 uToken 为基准，以 vita为计价单位，通过恒定乘积算法（constant product formula）计算获取。
 4.  vita是通证价格的基本单位。\
-    计量通证 uToken 是道易程的去中心化交易和支付网络（IADD网络）中的定价基准物，它的价格的基本单位为vita。那么也就是说，凡涉及到通证交易或者支付时，一律以 vita为价格的基本单位来标价。就支付来说，通证经济生态里的一切产品和服务的售价，也都以 vita为价格的基本单位来标价。如：\
+    计量通证 uToken 是道易程的去中心化交易和支付网络（IADD网络）中的价格原器（定价基准物），它的价格的基本单位为vita。那么也就是说，凡涉及到通证交易或者支付时，一律以 vita为价格的基本单位来标价。就支付来说，通证经济生态里的一切产品和服务的售价，也都以 vita为价格的基本单位来标价。如：\
     1 ISM = 0.01 vita\
     产品售价：0.5 vita/ kg\
     服务费：200 vita/ 小时
 
     更多细节请访问“IADD网络”的“[计量单位通证协议](iadd.md#utoken)”。
 
-计量单位通证 uToken是道易程独创的价格单位制里的币价基准物。它会最大程度地降低估值通证应用的复杂度，也完全符合去中心化市场的需要。
+计量单位通证 uToken是道易程独创的价格单位制里的价格原器（定价基准物）。它会最大程度地降低估值通证应用的复杂度，也完全符合去中心化市场的需要。
 
 ## 去中心化交易协议（Protocol of Decentralized Exchange <a href="#dex-pay" id="dex-pay"></a>
 
