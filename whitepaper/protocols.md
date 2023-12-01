@@ -12,7 +12,7 @@ description: 各种治理协议的交联是非常复杂的。
 * 估值通证供应协议（Protocol of Valuation Token's Supply）
 * 计量单位通证协议（Protocol of Unit Token）
 * 去中心化交易协议（Protocol of Decentralized Exchange）
-* 去中心化支付协议（Protocol of Decentralized Payment）
+* 通用支付协议（Protocol of Universal Payment）
 
 ## **DAO硬核协议（DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
