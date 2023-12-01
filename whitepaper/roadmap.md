@@ -10,11 +10,9 @@
 
 ## 道易程开发团队介绍
 
-自然道是道易程的开发团队。如果您感兴趣，可以访问这里：
+自然道是道易程的开发团队。创始成员：[https://naturaldao.io/about-cn.html](https://naturaldao.io/about-cn.html)
 
-[https://naturaldao.io/en/about.html](https://naturaldao.io/en/about.html)
-
-或者中文版：[https://naturaldao.io/about-cn.html](https://naturaldao.io/about-cn.html)
+当前团队成员介绍：[https://www.daism.io/zh/](https://www.daism.io/zh/)
 
 ## 道易程发展路线图
 
