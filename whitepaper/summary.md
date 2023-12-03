@@ -8,7 +8,7 @@ description: >-
 
 ## 什么是道易程？
 
-**道易程是以太坊通证经济和DAO的价值体系的公共治理层。价值证明（PoV，Proof of Value）是其原创的治理共识。**
+**道易程是以太坊通证经济和DAO的价值体系的公共治理层。价值证明（PoV，Proof of Value）是其独特的治理共识。**
 
 ## 什么是价值证明（PoV，Proof of Value）？
 
