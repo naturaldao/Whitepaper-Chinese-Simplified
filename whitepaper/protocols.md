@@ -42,13 +42,13 @@ description: 各种治理协议的交联是非常复杂的。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
-道易程的价值共识给每个DAO都提供了可以永续的奖励。每家DAO也都有一个极简的去中心化自治基金会（Decentralized Autonomous Fundation），该 DAF 可以调整奖金的分配，包括分配给哪些钱包地址、每个地址被分配的额度（百分数）。
+道易程的价值共识给每个DAO都提供了可以永续的奖励。每家DAO也都有一个极简的去中心化自治基金会（Decentralized Autonomous Fundation），该 DAF 可以调整奖金的分配，包括分配给哪些账户、每个账户被分配的额度（百分数）。
 
 ## **估值通证供应协议（Protocol of** Valuation **Token's Supply）** <a href="#tokensupply" id="tokensupply"></a>
 
 估值通证供应也叫哈耶克公约一（Hayek Convention No.1）。
 
-任何一个DAO都会发行其专属的估值用通证（中文也可以称其为估值用代币）。估值通证的主要作用是让投资者参与dApp的价值评估，并为道易程的价值共识提供奖金。
+任何一个DAO都会发行其专属的估值用通证（中文也可以称其为估值用代币）。估值通证的主要作用是让投资者参与dApp的价值评估，并为道易程的共识价值证明提供奖金。
 
 该协议主要定义估值通证的技术标准、名称、缩略符、Logo及其发行量、发行价。
 
