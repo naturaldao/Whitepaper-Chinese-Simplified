@@ -38,7 +38,7 @@ description: 各种治理协议的交联是非常复杂的。
 >
 > 匿名意味着该DAO的成员，不对其dApp及其专属估值通证提供任何形式的担保，不承担任何连带责任。
 >
-> 当使用或调用本dApp，或投资本DAO专属估值通证时，任何人不得暗示本DAO任何成员为他的行为背书。
+> 当使用或调用本dApp，或投资本DAO专属估值通证时，任何人不得暗示本DAO或本DAO的任何成员为他或她的行为背书。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
