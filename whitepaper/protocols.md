@@ -2,7 +2,7 @@
 description: 各种治理协议的交联是非常复杂的。
 ---
 
-# 道易程PoV中的治理协议 v2.0
+# PoV（价值证明）中的治理协议
 
 如前所述，道易程PoV中有七大治理协议：
 
@@ -16,17 +16,15 @@ description: 各种治理协议的交联是非常复杂的。
 
 ## **DAO硬核协议（DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
-DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），专属估值通证等等。
-
-在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址上限为64人。
-
-该协议还包含DAO的升级规则。
+* DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），专属估值通证等等。
+* 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址上限为64人。
+* 该协议还包含DAO的升级规则。
 
 ## **去中心化铸造协议 Decentralized Minting Protocol** <a href="#deauthentication" id="deauthentication"></a>
 
 铸造（Minting）即是合约交互，它是智能合约间最基础的行为。DAism摒弃了当前虚幻的DID概念，为DAO的创建采用了极简且极为可靠的去中心化认证手段，即DAO的创建始于某个合约地址下的智能合约的Minting请求而与当前其它任何DID无关。Mint协议可以证明一个DAO源于哪个智能合约，而此智能合约即能让所有人知道其功用或目的，机制非常简单也绝对真实可靠。它是创建DAO的唯一方式，也可作为DAO的创世证据，解决智能体及其专属的估值通证和产品（如DApp）基于哪个核心智能合约的这一真实信息的关联问题。
 
-同时，该协议也是一个公共资源协议（SP0协议，Smart Property 0），即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源（Public Goods）————我们称其为智能资产（Smart Property）。这也就是说，接受道易程治理的DAO/dApp，即为智能资产。
+同时，该协议中还包含了一个智能资产子协议，其名称为 SP0（意为Smart Property 0）。即Minting操作，也就是宣布某个智能合约或某个dApp（某些智能合约的组合）自身成为以太坊的公共资源（Public Goods）——我们称其为智能资产（Smart Property）。这也就是说，接受道易程治理的dApp，即为智能资产。
 
 **SP0 v0.1**
 
