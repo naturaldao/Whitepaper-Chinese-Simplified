@@ -7,5 +7,5 @@
 * [概述](whitepaper/summary.md)
 * [PoV（价值证明）的构件](whitepaper/framework.md)
 * [PoV（价值证明）中的治理协议](whitepaper/protocols.md)
-* [价值证明中的IADD Network](whitepaper/iadd.md)
+* [PoV（价值证明）中的IADD Network](whitepaper/iadd.md)
 * [道易程发展规划](whitepaper/roadmap.md)
