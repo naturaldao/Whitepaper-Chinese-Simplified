@@ -42,7 +42,7 @@ description: 各种治理协议的交联是非常复杂的。
 
 ## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
 
-道易程的价值共识给每个DAO都提供了可以永续的奖励。每家DAO也都有一个极简的去中心化自治基金会（Decentralized Autonomous Fundation），该 DAF 可以调整奖金的分配，包括分配给哪些账户、每个账户被分配的额度（百分数）。
+道易程的价值证明给每个DAO都提供了可以永续的奖励。每家DAO也都有一个极简的去中心化自治基金会（Decentralized Autonomous Fundation），该 DAF 可以调整奖金的分配，包括分配给哪些账户、每个账户被分配的额度（百分数）。
 
 ## **估值通证供应协议（Protocol of** Valuation **Token's Supply）** <a href="#tokensupply" id="tokensupply"></a>
 
