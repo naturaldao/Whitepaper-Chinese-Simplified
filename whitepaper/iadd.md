@@ -1,8 +1,12 @@
+---
+description: Instantly and Automatically Deployed DeSwap Network
+---
+
 # PoV（价值证明）中的IADD Network
 
 ## **概述**
 
-IADD 网络，是道易程原创的一个通用的去中心化交易网络。它主要为dApp提供一种估值模型，也搞定了区块链一直没解决的通用支付及结算需求。
+IADD 网络，是 Instantly and Automatically Deployed DeSwap Network（即刻自动部署的去中心化兑换网络）的简称，它是一个通用的去中心化交易和去中心化支付2合1网络。它主要为dApp提供估值服务，也搞定了区块链一直没解决的通用支付暨结算需求。
 
 IADD 网络的主要功用：
 
@@ -14,7 +18,7 @@ IADD 网络的主要功用：
 
 1. 完美的去中心化的价格发现机制和充分的流动性\
    ① 班科的创新带来了价格发现机制的革命：它彻底淘汰了撮合交易，揭示了流动性池和算法的配合可以实现去中心化的价格发现，并且无论多少种代币的交易都可一次即时完成。 这一创新无疑值得道易程继承！\
-   ② 通证价格算法则采用更为简单的Uniswap的恒定乘积方程式（Constant Product Market Maker）。\
+   ② 通证价格算法则采用更为简单的Uniswap的恒定乘积方程式（Constant Product Market Maker，CPMM）。它是一种非线性币币兑换算法。我们进行改良后的算法被称为Improved CPMM。\
    ③ 估值变化无失真，完全反映投资者的判断：道易程的估值通证供应协议，会用统一的标准，将每个DAO的所有估值通证，都直接供应到 IADD Network。即估值通证全部发行到 IADD 网络后成为储备币（为市场构建好流动性池）。储备币通过自动计算而实现价值发现，并为市场提供流动性，且不必考虑交易规模大小。是的，这就成就了一个革命性的网络，因为基于它而构建的去中心化交易网络不需要也不允许任何人管理流动性！
 2. 内置一个通证价格的计量（度量）体系\
    ① 通证价格的单位制是让区块链（智能合约）获得定价权的唯一科学的手段。\
@@ -24,20 +28,6 @@ IADD 网络的主要功用：
 3. 智能合约管理一切，完全自运行\
    ① 可以永久自运行是智能合约的优势。\
    ② 完全自运行即为无人值守，亦即抗人为干预。
-
-## 缩略词
-
-DEX——Decentralized Exchange，去中心化交易所。
-
-Improved CPMM——在Uniswap里得到应用的恒定乘积做市商模型（CPMM）是一种非线性币币兑换算法。我们进行了改良。
-
-ISC—— IADD Smart Contract，我们部署的去中心化交易智能合约，它使用和班科网络类似的技术手段，为所有ERC20通证自动构建出其去中心化交易协议。
-
-IEP—— IADD Exchange Protocol。一个去中心化交易协议。
-
-Unit Token, uToken——ISC智能合约部署的计量通证。
-
-IADD Network(Instantly and Automatically Deployed DeSwap Network)——即刻自动部署的去中心化兑换网络，它是一个去中心化交易和去中心化支付2合1网络。&#x20;
 
 ## 构成 IADD 网络的主要协议
 
