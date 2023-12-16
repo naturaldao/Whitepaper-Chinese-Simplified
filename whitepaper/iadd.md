@@ -53,7 +53,7 @@ IADD 网络的主要功用：3
 
 **名称：**计量单位通证（Unit Token，uToken）
 
-**货币符号：**uTOKEN
+**货币符号：**UTO
 
 **基本单位：**vita
 
