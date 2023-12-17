@@ -57,7 +57,7 @@ IADD 网络的主要功用：3
 
 **标志：**
 
-<figure><img src="../.gitbook/assets/vita-s.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vita-s.svg" alt="" width="64"><figcaption></figcaption></figure>
 
 **基本单位：**vita
 
