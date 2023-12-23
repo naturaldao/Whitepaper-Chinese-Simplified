@@ -81,4 +81,4 @@
 12. 第三轮审计：[Fairyproof](https://www.fairyproof.com/)
 13. 第四轮审计：[Certik](https://www.certik.com/)
 14. 2024年Q1：部署到以太坊测试网络公开测试
-15. 2024年Q1正式上线
+15. 2024年Q2正式上线
