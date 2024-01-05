@@ -8,7 +8,7 @@ description: 各种治理协议的交联是非常复杂的。
 
 * DAO硬核协议（DAO Hardcore Protocol）
 * 去中心化铸造协议 Decentralized Minting Protocol
-* 去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）
+* 去中心化自治基金协议（Protocol of Decentralized Autonomous Fund）
 * 估值通证供应协议（Protocol of Valuation Token's Supply）
 * 计量单位通证协议（Protocol of Unit Token）
 * 去中心化交易协议（Protocol of Decentralized Exchange）
@@ -34,7 +34,7 @@ description: 各种治理协议的交联是非常复杂的。
 >
 > 1、无著作权
 >
-> 匿名意味着其开发的dApp完全贡献至公共领域，将其归属于智能公物（Smart Commons），除能够享受价值证明（Proof-of-Work）带来的奖励外，彻底放弃所有其它权利，包括所有相关权利和邻接权利。
+> 匿名意味着其开发的dApp完全贡献至公共领域，将其归属于智能公物（Smart Commons），除能够享受价值证明（Proof-of-Value）带来的奖励外，彻底放弃所有其它权利，包括所有相关权利和邻接权利。
 >
 > 2、无责任
 >
@@ -42,7 +42,7 @@ description: 各种治理协议的交联是非常复杂的。
 >
 > 当使用或调用本dApp，或投资本智能公物专属估值通证时，任何人不得暗示本智能公物或其任何声明者为他或她的行为背书。
 
-## **去中心化自治基金会协议（Protocol of DAF，Protocol of Decentralized Autonomous Fundation）** <a href="#daf" id="daf"></a>
+## **去中心化自治基金协议（Protocol of Decentralized Autonomous Fund）** <a href="#daf" id="daf"></a>
 
 道易程的价值证明给每个DAO都提供了可以永续的奖励。每家DAO也都有一个极简的去中心化自治基金会（Decentralized Autonomous Fundation），该 DAF 可以调整奖金的分配，包括分配给哪些账户、每个账户被分配的额度（百分数）。
 
