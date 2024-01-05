@@ -8,7 +8,7 @@ description: 这是道易程白皮书2.0
 
 道易程继承了比特币工作量证明（和以太坊权益证明）的治理思想，其原创的治理共识为价值证明（PoV，Proof of Value）。
 
-这意味着道易程是一个让 DAO暨dApp 繁衍生息，让通证经济蓬勃发展的公共治理层。
+这意味着道易程是一个让智能公器（Smart Commons）暨dApp 繁衍生息，让通证经济蓬勃发展的公共治理层。
 
 {% embed url="https://www.daism.io/zh" %}
 道易程网站
