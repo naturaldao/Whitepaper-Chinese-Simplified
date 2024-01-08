@@ -73,6 +73,8 @@ Coinbase和Paradigm两个项目的联合创始人Fred Ehrsam和Dan Robinson于20
 
 智能公器 = dApp + 价值证明
 
+接受道易程治理的dApp，即为智能公器。[详细的协议在后面的相关内容中有介绍。](protocols.md#deauthentication)
+
 dApp的价值是智能公器的根本。道易程的价值证明是智能公器得到有效治理的保障。\
 值得一提的是，在道易程构建起来的良好的通证经济里，专属估值通证化身为dApp的价值评估指标。
 
