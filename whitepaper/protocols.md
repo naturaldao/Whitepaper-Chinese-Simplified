@@ -6,7 +6,7 @@ description: 各种治理协议的交联是非常复杂的。
 
 如前所述，道易程PoV中有七大治理协议：
 
-* DAO硬核协议（DAO Hardcore Protocol）
+* 硬核协议（Smart Commons' Hardcore Protocol）
 * 去中心化铸造协议 Decentralized Minting Protocol
 * 去中心化自治基金协议（Protocol of Decentralized Autonomous Fund）
 * 估值通证供应协议（Protocol of Valuation Token's Supply）
@@ -14,7 +14,7 @@ description: 各种治理协议的交联是非常复杂的。
 * 去中心化交易协议（Protocol of Decentralized Exchange）
 * 通用支付协议（Protocol of Universal Payment）
 
-## **DAO硬核协议（DAO Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
+## **智能公器硬核协议（Smart Commons' Hardcore Protocol）** <a href="#daohardcore" id="daohardcore"></a>
 
 * DAO硬核协议涵括DAO所需要的基础资料如插槽ID、项目英文名称、项目Logo（SVG格式，建议不超过6K，否则实在太贵）、项目描述（可以是宣传口号Slogan）、创建时间（平台记录）、创始成员（匿名，只是ETH地址），专属估值通证的名称、简称和符号等等。
 * 在设置DAO时，创建者可以手工添加一些地址到这家DAO作为这家的DAO的初始成员。地址上限为64人。
