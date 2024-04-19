@@ -69,6 +69,8 @@ description: 各种治理协议的交联是非常复杂的。
 
 ## **计量单位通证协议（Protocol of Unit Token）** <a href="#utoken" id="utoken"></a>
 
+此协议的目的是建立**价格单位制**！
+
 计量单位通证是道易程的 IADD （去中心化交易和去中心化支付2合1网络）中，通过恒定乘积算法（constant product formula），为一切估值通证定价的通证。
 
 这是道易程的一个核心创新。该协议的核心是一种叫uToken（Unit Token的简称）的单位通证。
