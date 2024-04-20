@@ -224,7 +224,11 @@ Hayden Adams. 2018：[https://hackmd.io/@477aQ9OrQTCbVR3fq1Qzxg/HJ9jLsfTz?type=v
 * 区块链领域的荣誉勋章（Medal of Honor）、纪念币（Commemorative Token）、纪念章、徽章、证书等等
 * 具有收藏价值的游戏道具等——我们的荣誉通证是百分之百保存在链上的（包括图片）。
 
-这是我们开发的简单的荣誉通证交易所的DEMO：
+这是我们开发的简单的荣誉通证交易所：
+
+[toh.best](https://toh.best)
+
+或者测试网络Ropsten里的DEMO：
 
 [https://1155.goh.cool/](https://1155.goh.cool/)
 
