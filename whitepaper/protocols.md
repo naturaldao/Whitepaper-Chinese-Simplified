@@ -212,7 +212,7 @@ Hayden Adams. 2018：[https://hackmd.io/@477aQ9OrQTCbVR3fq1Qzxg/HJ9jLsfTz?type=v
 
 我们原创的图片存储标准意义重大：
 
-* 首先应用于荣誉通证的链上存储。我们成功制订了EIP-2569（Saving and Displaying Image Onchain for Universal Tokens），以太坊已经收录（查询：[https://eips.ethereum.org/all](https://eips.ethereum.org/all)）。这意味着我们创立了面向整个以太坊应用的技术标准。
+* 首先应用于荣誉通证的链上存储。我们成功制订了[EIP-2569（Saving and Displaying Image Onchain for Universal Tokens）](https://eips.ethereum.org/EIPS/eip-2569)，以太坊已经收录。这意味着我们创立了面向整个以太坊应用的技术标准。
 * 扩大应用到一切图片的存储。譬如我们已经将它应用到了去中心化媒体。
 
 ### **荣誉通证（Token of Honor）** <a href="#honor" id="honor"></a>
