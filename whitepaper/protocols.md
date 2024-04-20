@@ -198,7 +198,7 @@ Hayden Adams. 2018：[https://hackmd.io/@477aQ9OrQTCbVR3fq1Qzxg/HJ9jLsfTz?type=v
 * 该协议治理的是估值通证的交易机制。
 * 仍然采用Bancor创新的自动化做市商（Automated Market Maker, AMM）。价格发现机制与 Bancor Network 或 Uniswap 类似。即IADD网络是道易程通用的去中心化交易和去中心化支付网络。 道易程以定价通证uToken、智能公器专属的估值通证、恒定乘积方程式、智能合约构成IADD网络。
 * 通过估值通证供应协议的协同，智能合约用算法独立治理流动性池，无需人参与。
-* 估值通证在 IADD 网络有交易时，交易手续费（0.2%）作为奖金奖励给其所属智能公器的开发者。
+* 估值通证在 IADD 网络有交易时，交易手续费（交易量的0.2%）作为奖金奖励给其所属智能公器的开发者。
 
 ## 通用支付协议（Protocol of Universal Payment）
 
