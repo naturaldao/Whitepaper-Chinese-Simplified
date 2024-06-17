@@ -1,5 +1,5 @@
 ---
-description: 这是道易程白皮书2.0
+description: 这是道易程白皮书2.0。新版本将会发布在道易程网站（daism.io）
 ---
 
 # 说明
