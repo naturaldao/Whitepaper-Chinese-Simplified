@@ -12,10 +12,10 @@ description: 这是道易程白皮书2.0。新版本将会发布在道易程网�
 道易程网站
 {% endembed %}
 
-自然道是道易程的核心开发团队，初始成员为周朝晖、谭粤飞、黎兆、张华、童秀珍。
+自然道是道易程的早期核心开发团队，初始成员为周朝晖、谭粤飞、张华、黎兆、童秀珍。
 
 {% embed url="https://www.naturaldao.io" %}
-自然道网站
+自然道纪念网站
 {% endembed %}
 
 道易程官网：[www.daism.io](https://www.daism.io)
