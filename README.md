@@ -4,6 +4,8 @@ description: 这是道易程白皮书2.0。新版本将会发布在道易程网�
 
 # 说明
 
+（[新版本将会发布在道易程网站 DAism.io](https://learn.daism.io/zh/docs/whitepaper.html)）
+
 道易程是dApp和通证经济的公共治理层。
 
 道易程继承了比特币工作量证明（和以太坊权益证明）的治理思想，其原创的治理共识为价值证明（PoV，Proof of Value）。
