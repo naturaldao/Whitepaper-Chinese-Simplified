@@ -33,7 +33,7 @@ description: 各种治理协议的交联是非常复杂的。
 
 这也就是说，接受道易程治理的公共的dApp，即为智能公器。
 
-> **SC0 v0.1**
+> **SCC0 v0.1**
 >
 > 用一个dApp Mint一个Smart Common意味着它接受了本许可的排他治理。
 >
@@ -102,17 +102,17 @@ description: 各种治理协议的交联是非常复杂的。
 
 ### 计量单位制：
 
-**名称：**计量单位通证（Unit Token，uToken）
+**名称：**&#x8BA1;量单位通证（Unit Token，uToken）
 
-**货币缩略符：**UTO
+**货币缩略符：**&#x55;TO
 
 **标志：**
 
 <figure><img src="../.gitbook/assets/vita-s.svg" alt="" width="64"><figcaption></figcaption></figure>
 
-**基本单位：**vita
+**基本单位：**&#x76;ita
 
-**辅币进位制：**1vita=100cent（分)
+**辅币进位制：**&#x31;vita=100cent（分)
 
 **单位：**
 
